@@ -1,6 +1,6 @@
 # HotLinks - 现代化网站导航
 
-![HotLinks Logo](https://github.com/bbylw/claudepornav/blob/main/demo.png)
+![HotLinks Logo](https://github.com/pusvsimg/pornavtrex/blob/main/demo.png)
 
 > 一个由 Claude 3.7 Sonnet AI 辅助开发的现代化网站导航项目，UI和配色模仿 youporn 风格设计。
 
